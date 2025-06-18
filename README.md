@@ -1,5 +1,6 @@
 #### 2025-06-18
 1. [性能超越SOTA模型90%！揭秘Claude多智能体系统的构建心法](https://cloud.tencent.com/developer/article/2531882) Claude 最近给出了多智能体的最佳实践，正在做多智能体的同学强烈推荐一读！
+2. [我对 AI 的观感和对未来的预测](https://mp.weixin.qq.com/s/BMUhu5V47AOjCR6bs57EKA) 作者是 youware 创始人，对于 AI 有深刻的认知
 
 #### 2025-06-12
 1. [未来可能会成为主流标准的智能体评测体系](https://xbench.org/reports) 它的评测不是以 AI 为中心的能力评测，而是对主流职业、业务场景的真实评测，看看各大智能体/模型在这些场景下的业务和商业化表现
