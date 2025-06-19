@@ -1,7 +1,7 @@
 #### 2025-06-19
 1. [图解AI三大核心技术：RAG、大模型、智能体](https://mp.weixin.qq.com/s/pe2Rn6O_1KyqfFbCtMpqiw)
 ![image](https://github.com/user-attachments/assets/e14142f7-f7a4-420b-be66-7b992a8cb9d6)
-
+2. [让 Agent 规划调用工具](https://mp.weixin.qq.com/s/CpdXBPTmRZOmTWutywgw3A) 如何提升 Agent 的工具调用效果？Anthropic 的办法是让模型调用思考工具，并提供示例，让模型调用工具前/调用工具后思考
 
 #### 2025-06-18
 1. [性能超越SOTA模型90%！揭秘Claude多智能体系统的构建心法](https://cloud.tencent.com/developer/article/2531882) Claude 最近给出了多智能体的最佳实践，正在做多智能体的同学强烈推荐一读！
