@@ -1,7 +1,7 @@
 #### 2025-06-19
 1. [图解AI三大核心技术：RAG、大模型、智能体](https://mp.weixin.qq.com/s/pe2Rn6O_1KyqfFbCtMpqiw)
 2. [让 Agent 规划调用工具](https://mp.weixin.qq.com/s/CpdXBPTmRZOmTWutywgw3A) 如何提升 Agent 的工具调用效果？Anthropic 的办法是让模型调用思考工具，并提供示例，让模型调用工具前/调用工具后思考
-3. [现代 RAG 架构的演进之路](https://mp.weixin.qq.com/s/GrF4Da51rG-NLCr71j5xLQ)
+3. [现代 RAG 架构的演进之路](https://mp.weixin.qq.com/s/GrF4Da51rG-NLCr71j5xLQ) RAG 技术的演进是一个从简单到复杂、从 Naive 到 Agentic 的系统性优化过程，每一次优化都是在试图解决无数企业落地大语言模型应用时出现的痛点问题。
 
 #### 2025-06-18
 1. [性能超越SOTA模型90%！揭秘Claude多智能体系统的构建心法](https://cloud.tencent.com/developer/article/2531882) Claude 最近给出了多智能体的最佳实践，正在做多智能体的同学强烈推荐一读！
