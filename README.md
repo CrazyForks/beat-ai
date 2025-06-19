@@ -1,3 +1,8 @@
+#### 2025-06-19
+1. [图解AI三大核心技术：RAG、大模型、智能体](https://mp.weixin.qq.com/s/pe2Rn6O_1KyqfFbCtMpqiw)
+![image](https://github.com/user-attachments/assets/e14142f7-f7a4-420b-be66-7b992a8cb9d6)
+
+
 #### 2025-06-18
 1. [性能超越SOTA模型90%！揭秘Claude多智能体系统的构建心法](https://cloud.tencent.com/developer/article/2531882) Claude 最近给出了多智能体的最佳实践，正在做多智能体的同学强烈推荐一读！
 2. [我对 AI 的观感和对未来的预测](https://mp.weixin.qq.com/s/BMUhu5V47AOjCR6bs57EKA) 作者是 youware 创始人，对于 AI 有深刻的认知
