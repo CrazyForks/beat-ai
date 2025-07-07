@@ -1,3 +1,7 @@
+#### 2025-07-07
+1. [分享一个神奇的产品：String，通过自然语言生成 Agentic Workflow，让智能体构建智能体！](https://string.com)
+![image](https://github.com/user-attachments/assets/8588a884-039d-4aee-b0b4-83ea51f51d2b)
+
 #### 2025-06-19
 1. [图解AI三大核心技术：RAG、大模型、智能体](https://mp.weixin.qq.com/s/pe2Rn6O_1KyqfFbCtMpqiw)
 2. [让 Agent 规划调用工具](https://mp.weixin.qq.com/s/CpdXBPTmRZOmTWutywgw3A) 如何提升 Agent 的工具调用效果？Anthropic 的办法是让模型调用思考工具，并提供示例，让模型调用工具前/调用工具后思考
