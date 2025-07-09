@@ -1,3 +1,6 @@
+#### 2025-07-09
+1. [Claude高阶玩法泄露！Reddit高赞帖：别只会对AI说“帮我修这个 bug”，老手都在配置现成指令库！网友：指挥AI是关键](https://mp.weixin.qq.com/s/dilOnnCNHPlSM5M4ywN8NQ)
+
 #### 2025-07-07
 1. [分享一个神奇的产品：String，通过自然语言生成 Agentic Workflow，让智能体构建智能体！](https://string.com)
 ![image](https://github.com/user-attachments/assets/8588a884-039d-4aee-b0b4-83ea51f51d2b)
