@@ -1,3 +1,6 @@
+#### 2025-07-29
+1. [AI Coding⾮共识报告](https://mp.weixin.qq.com/s/p5szrZfb6dzMze7p6Aeyeg) 文章从七个方向详细分享了 AI Coding 的可行方向，值得深入一读
+
 #### 2025-07-09
 1. [Claude高阶玩法泄露！Reddit高赞帖：别只会对AI说“帮我修这个 bug”，老手都在配置现成指令库！网友：指挥AI是关键](https://mp.weixin.qq.com/s/dilOnnCNHPlSM5M4ywN8NQ)
 
