@@ -1,3 +1,8 @@
+#### 2025-07-31
+1. [AI Agent的终极未来｜3万字圆桌实录](https://mp.weixin.qq.com/s/9TafZ0xIexLucGLiSePdhg)
+2. [智能体新基建亮相WAIC](https://mp.weixin.qq.com/s/Rks7FO3m75dici6mgrfssg)
+3. [DeepSeek R2秘密武器曝光！梁文锋刚拿下顶级大奖的技术，让AI读长文速度狂飙11倍](https://mp.weixin.qq.com/s/BZUkfQslYZuVLFNYOptPPw?poc_token=HD05i2ijUdGYd6MtygpdB6IdNU4HGon6hlWVOtx8)
+
 #### 2025-07-29
 1. [AI Coding⾮共识报告](https://mp.weixin.qq.com/s/p5szrZfb6dzMze7p6Aeyeg) 文章从七个方向详细分享了 AI Coding 的可行方向，值得深入一读
 
