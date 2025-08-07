@@ -1,3 +1,7 @@
+#### 2025-08-07
+1. [深度学习快速入门](https://www.rethink.fun) 一本非常全面的深入学习入门书籍，很适合想要学习 transfomer 的同学阅读
+<img width="305" height="679" alt="image" src="https://github.com/user-attachments/assets/e898de8a-dbe1-4e90-9f5b-d854ca63c74e" />
+
 #### 2025-07-31
 1. [AI Agent的终极未来｜3万字圆桌实录](https://mp.weixin.qq.com/s/9TafZ0xIexLucGLiSePdhg)
 2. [智能体新基建亮相WAIC](https://mp.weixin.qq.com/s/Rks7FO3m75dici6mgrfssg)
