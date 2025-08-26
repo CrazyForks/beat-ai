@@ -1,3 +1,7 @@
+#### 2025-08-26
+1. [是什么让 Claude Code 如此出色（以及如何在你的智能体中重现这种魔力）](https://cc.deeptoai.com/docs/zh/advanced/decoding-claude-code-analysis#12-%E4%B8%BA%E4%B8%80%E5%88%87%E4%BD%BF%E7%94%A8%E6%9B%B4%E5%B0%8F%E7%9A%84%E6%A8%A1%E5%9E%8B)
+2. [让 Claude Code 加入到研发流程中来](https://github.com/automazeio/ccpm)
+   
 #### 2025-08-07
 1. [深度学习快速入门](https://www.rethink.fun) 一本非常全面的深入学习入门书籍，很适合想要学习 transfomer 的同学阅读
 <img width="305" height="679" alt="image" src="https://github.com/user-attachments/assets/e898de8a-dbe1-4e90-9f5b-d854ca63c74e" />
