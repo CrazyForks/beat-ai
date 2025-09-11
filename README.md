@@ -1,3 +1,7 @@
+#### 2025-09-11
+1. [新书推荐-智能体设计模式](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e?pli=1) 本书由谷歌云 CTO 办公室的大佬编写，亚马逊预计 12 月份出版
+<img width="827" height="1259" alt="image" src="https://github.com/user-attachments/assets/a24c8842-2176-4afe-8461-3ea9219a540a" />
+
 #### 2025-08-26
 1. [是什么让 Claude Code 如此出色（以及如何在你的智能体中重现这种魔力）](https://cc.deeptoai.com/docs/zh/advanced/decoding-claude-code-analysis#12-%E4%B8%BA%E4%B8%80%E5%88%87%E4%BD%BF%E7%94%A8%E6%9B%B4%E5%B0%8F%E7%9A%84%E6%A8%A1%E5%9E%8B)
 2. [让 Claude Code 加入到研发流程中来](https://github.com/automazeio/ccpm)
