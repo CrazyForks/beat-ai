@@ -3,27 +3,19 @@
 2. [新书推荐-智能体设计模式](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e?pli=1) 本书由谷歌云 CTO 办公室的大佬编写，亚马逊预计 12 月份出版
 <img width="827" height="1259" alt="image" src="https://github.com/user-attachments/assets/a24c8842-2176-4afe-8461-3ea9219a540a" />
 
-#### 2025-08-26
+#### 2025-08
 1. [是什么让 Claude Code 如此出色（以及如何在你的智能体中重现这种魔力）](https://cc.deeptoai.com/docs/zh/advanced/decoding-claude-code-analysis#12-%E4%B8%BA%E4%B8%80%E5%88%87%E4%BD%BF%E7%94%A8%E6%9B%B4%E5%B0%8F%E7%9A%84%E6%A8%A1%E5%9E%8B)
 2. [让 Claude Code 加入到研发流程中来](https://github.com/automazeio/ccpm)
-   
-#### 2025-08-07
-1. [深度学习快速入门](https://www.rethink.fun) 一本非常全面的深入学习入门书籍，很适合想要学习 transfomer 的同学阅读
+3. [深度学习快速入门](https://www.rethink.fun) 一本非常全面的深入学习入门书籍，很适合想要学习 transfomer 的同学阅读
 <img width="305" height="679" alt="image" src="https://github.com/user-attachments/assets/e898de8a-dbe1-4e90-9f5b-d854ca63c74e" />
 
-#### 2025-07-31
+#### 2025-07
 1. [AI Agent的终极未来｜3万字圆桌实录](https://mp.weixin.qq.com/s/9TafZ0xIexLucGLiSePdhg)
 2. [智能体新基建亮相WAIC](https://mp.weixin.qq.com/s/Rks7FO3m75dici6mgrfssg)
 3. [DeepSeek R2秘密武器曝光！梁文锋刚拿下顶级大奖的技术，让AI读长文速度狂飙11倍](https://mp.weixin.qq.com/s/BZUkfQslYZuVLFNYOptPPw?poc_token=HD05i2ijUdGYd6MtygpdB6IdNU4HGon6hlWVOtx8)
-
-#### 2025-07-29
-1. [AI Coding⾮共识报告](https://mp.weixin.qq.com/s/p5szrZfb6dzMze7p6Aeyeg) 文章从七个方向详细分享了 AI Coding 的可行方向，值得深入一读
-
-#### 2025-07-09
-1. [Claude高阶玩法泄露！Reddit高赞帖：别只会对AI说“帮我修这个 bug”，老手都在配置现成指令库！网友：指挥AI是关键](https://mp.weixin.qq.com/s/dilOnnCNHPlSM5M4ywN8NQ)
-
-#### 2025-07-07
-1. [分享一个神奇的产品：String，通过自然语言生成 Agentic Workflow，让智能体构建智能体！](https://string.com)
+4. [AI Coding⾮共识报告](https://mp.weixin.qq.com/s/p5szrZfb6dzMze7p6Aeyeg) 文章从七个方向详细分享了 AI Coding 的可行方向，值得深入一读
+5. [Claude高阶玩法泄露！Reddit高赞帖：别只会对AI说“帮我修这个 bug”，老手都在配置现成指令库！网友：指挥AI是关键](https://mp.weixin.qq.com/s/dilOnnCNHPlSM5M4ywN8NQ)
+6. [分享一个神奇的产品：String，通过自然语言生成 Agentic Workflow，让智能体构建智能体！](https://string.com)
 ![image](https://github.com/user-attachments/assets/8588a884-039d-4aee-b0b4-83ea51f51d2b)
 
 #### 2025-06-19
