@@ -1,5 +1,5 @@
 #### 2025-09
-1. [为 AI 准备好你的数据](https://moderndata101.substack.com/p/ai-ready-data-a-technical-assessment) 为什么数据基础设施需要升级才能支持实际应用的 AI？数据流水线又是如何在无形中拖累 AI 投资回报？分布式语义智能的到来带来了哪些影响？
+1. [AI 到底需要什么样的数据？](https://moderndata101.substack.com/p/ai-ready-data-a-technical-assessment) 为什么数据基础设施需要升级才能支持实际应用的 AI？数据流水线又是如何在无形中拖累 AI 投资回报？分布式语义智能的到来带来了哪些影响？
 2. [新书推荐-智能体设计模式](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e?pli=1) 本书由谷歌云 CTO 办公室的大佬编写，亚马逊预计 12 月份出版
 <img width="827" height="1259" alt="image" src="https://github.com/user-attachments/assets/a24c8842-2176-4afe-8461-3ea9219a540a" />
 
