@@ -1,7 +1,8 @@
 #### 2025年9月
 1. [AI 到底需要什么样的数据？](https://moderndata101.substack.com/p/ai-ready-data-a-technical-assessment) 为什么数据基础设施需要升级才能支持实际应用的 AI？数据流水线又是如何在无形中拖累 AI 投资回报？分布式语义智能的到来带来了哪些影响？
 2. [新书推荐-智能体设计模式](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e?pli=1) 本书由谷歌云 CTO 办公室的大佬编写，亚马逊预计 12 月份出版
-<img width="827" height="1259" alt="image" src="https://github.com/user-attachments/assets/a24c8842-2176-4afe-8461-3ea9219a540a" />
+3. [AI 原生组织怎么建：Claude Code 产品经理 Cat Wu 的起步顺序](https://mp.weixin.qq.com/s/R3dhO--j1ohLqlofGeDnwg) 给大家分享一篇从产品角度切入AI原生组织的文章，看完后深刻感觉到，在 AI 时代，创新往往发生在组织边缘，而且这种 botom-up 的路径对于激发团队非常有效。
+这种创新路径一直都存在，为何在AI时代变得如此显性？我的看法是：若想真的做好 AI，必须得从某个一线真实存在的用户需求开始，一步一步扎实的前行，建立用户真心认可和团队成就感的正反馈循环，最终成长为愿景中的模样。这就是一个典型的从边缘到中心构建一整棵大树的 bottom-up 过程。
 
 #### 2025年8月
 1. [是什么让 Claude Code 如此出色（以及如何在你的智能体中重现这种魔力）](https://cc.deeptoai.com/docs/zh/advanced/decoding-claude-code-analysis#12-%E4%B8%BA%E4%B8%80%E5%88%87%E4%BD%BF%E7%94%A8%E6%9B%B4%E5%B0%8F%E7%9A%84%E6%A8%A1%E5%9E%8B)
