@@ -1,5 +1,5 @@
 #### 2025年11月
-- [从写代码到验代码：AI 搭档写走 3 年，我踩出来的协作路线图](https://mp.weixin.qq.com/s/HybYiXumcwPRWLybGS4BOQ)  作者在 AI Coding 领域浸淫三年，看得出有很深的认知，最难能可贵的是还把认知通过可落地的方式完整传授给大家，强烈推荐！
+- [从写代码到验代码：AI 搭档写走 3 年，我踩出来的协作路线图](https://mp.weixin.qq.com/s/k6yB67iZTIs_1NAhEYq6LQ)  作者在 AI Coding 领域浸淫三年，看得出有很深的认知，最难能可贵的是还把认知通过可落地的方式完整传授给大家，强烈推荐！
 
 #### 2025年9月
 - [AI 原生组织怎么建：Claude Code 产品经理 Cat Wu 的起步顺序](https://mp.weixin.qq.com/s/R3dhO--j1ohLqlofGeDnwg) 给大家分享一篇从产品角度切入AI原生组织的文章，看完后深刻感觉到，在 AI 时代，创新往往发生在组织边缘，而且这种 bottom-up 的路径对于激发团队非常有效。
