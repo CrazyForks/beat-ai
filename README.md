@@ -1,3 +1,6 @@
+#### 2025年12月
+- [解读 Palantir Ontology：正在重塑商业智能领域的企业级 AI 操作系统](https://mp.weixin.qq.com/s/v9p4sPGVM050IovdC6WvEQ) 企业 IT 长期以来都难以解决一个难题：如何让 AI 不仅解读数据本身，更能理解其背后的深层含义；如何打破各自为政的系统壁垒，实现统一的商业智能。我们一起看看 Palantir 是怎么做的？
+
 #### 2025年11月
 - [OpenAI: 如何打造 AI 原生团队](https://mp.weixin.qq.com/s/OKkqetgo15PxHhS7nVvgCQ) 编程智能体该如何在 devops 的规划、设计、开发、测试、代码审查和部署等各个环节深度发挥作用，OpenAI 给出了答案
 - [从写代码到验代码：AI 搭档写走 3 年，我踩出来的协作路线图](https://mp.weixin.qq.com/s/k6yB67iZTIs_1NAhEYq6LQ)  作者在 AI Coding 领域浸淫三年，看得出有很深的认知，最难能可贵的是还把认知通过可落地的方式完整传授给大家，强烈推荐！
