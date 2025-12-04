@@ -1,5 +1,7 @@
 #### 2025年12月
+- [「AI数字化」智能化先胜的基础：文化、人才、流程、数据](https://mp.weixin.qq.com/s?__biz=MzA4NjIzMDU2Ng==&tempkey=MTM1MV9pNDNTMlFKdUxiYWV6a2xXaER2b2tzdl80LXFkZm53MG9ENjBwWUE5eVFiVS1fS0ttazM5MGRuTUt4US14bTJ4UnR4SFNVQm92OTNVbFduWS1YUjNFUlQ5eEpPSUJmcU5GQ012bHF6QXFkZWVYUVdwblVBdTdsVUg1c21ob2FLYW5JZTEzbTJza0tueEhodWVob2M5WEJBbEs3VldZUWhkcGUtS0RBfn4%3D&chksm=9fca9114a8bd1802c5e7e495fac296af74f5264b4a4112882f69169e61609bfb18c798c282dd&token=887802478&lang=zh_CN#rd) 孙子兵法的先胜是在发起全面战斗前，先让己方立于不败之地(深化建设组织技术能力且不能有大的战略失误)，再等待时机一击致命：“昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。善守者，藏于九地之下；善攻者，动于九天之上”。那智能化时代我们应该如何先胜？
 - [解读 Palantir Ontology：正在重塑商业智能领域的企业级 AI 操作系统](https://mp.weixin.qq.com/s/v9p4sPGVM050IovdC6WvEQ) 企业 IT 长期以来都难以解决一个难题：如何让 AI 不仅解读数据本身，更能理解其背后的深层含义；如何打破各自为政的系统壁垒，实现统一的商业智能。我们一起看看 Palantir 是怎么做的？
+
 
 #### 2025年11月
 - [OpenAI: 如何打造 AI 原生团队](https://mp.weixin.qq.com/s/OKkqetgo15PxHhS7nVvgCQ) 编程智能体该如何在 devops 的规划、设计、开发、测试、代码审查和部署等各个环节深度发挥作用，OpenAI 给出了答案
