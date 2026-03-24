@@ -19,6 +19,7 @@
 </p>
 
 #### 2026 年 3 月
+- [开源项目--1300 年前的唐朝制度，吊打了我用过的所有 AI 框架](https://beatai.org/ai-insights/viewpoint/tang-dynasty-beats-ai-frameworks)
 - [模型不是关键，Harness 才是](https://beatai.org/ai-insights/viewpoint/model-is-not-key-harness-is)
 - [构建 Claude Code 的经验：Prompt Caching 才是一切](https://beatai.org/ai-insights/viewpoint/prompt-caching-is-everything)
 - [Harness Engineering:2026年最被低估的工程革命](https://beatai.org/ai-insights/viewpoint/harness-engineering-revolution)
