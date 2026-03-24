@@ -1,4 +1,22 @@
-# AI 每日视点
+<p align="center">
+  <img src="https://beatai.org/beatai-logo-classic-blue.png" alt="BeatAI" width="88" />
+</p>
+
+<h1 align="center">BeatAI - 每日视点</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BeatAI-Daily%20AI%20Signal-0B7ADF?style=for-the-badge&labelColor=0F172A" alt="BeatAI Daily AI Signal" />
+  <img src="https://img.shields.io/badge/Focus-Agent%20%7C%20LLM%20%7C%20AI%20Coding-111827?style=for-the-badge&logoColor=white" alt="Focus Agent LLM AI Coding" />
+</p>
+
+<p align="center">
+  <a href="https://beatai.org/ai-insights">
+    <img src="https://img.shields.io/badge/Open%20on-beatai.org-1D9BF0?style=flat-square&labelColor=0B1320" alt="Open on beatai.org" />
+  </a>
+  <a href="https://github.com/beatai-org/BeatAI">
+    <img src="https://img.shields.io/badge/Repo-BeatAI-0F172A?style=flat-square&logo=github" alt="BeatAI Repo" />
+  </a>
+</p>
 
 #### 2026 年 3 月
 - [模型不是关键，Harness 才是](https://beatai.org/ai-insights/viewpoint/model-is-not-key-harness-is)
