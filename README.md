@@ -19,6 +19,7 @@
 </p>
 
 #### 2026 年 3 月
+- [Agent/Skills/Teams 架构演进过程及技术选型之道](https://beatai.org/ai-insights/viewpoint/agent-skills-teams-architecture-evolution-hifi-spicy)
 - [你的 Claude 配置会随着时间变质：用这条自检提示词，60 秒排毒](https://beatai.org/ai-insights/viewpoint/claude-self-audit-prompt)
 - [如何把 Claude Skills 的效果提升 10 倍：用 Karpathy 的 autoresearch 方法自动打磨](https://beatai.org/ai-insights/viewpoint/how-to-10x-your-claude-skills)
 - [开源项目--1300 年前的唐朝制度，吊打了我用过的所有 AI 框架](https://beatai.org/ai-insights/viewpoint/tang-dynasty-beats-ai-frameworks)
