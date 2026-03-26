@@ -7,10 +7,9 @@ No No No!
 
 对了，网站近期将完全开源，大家随意期待下就行。
 
----
-
 ## 🎭 辣评人活跃榜
-- 🥇 [**Sheldon Cooper**](https://baike.baidu.com/item/谢尔顿·库珀/9982394) × 5 ![09fa513d269759ee3d6d63b156aa54166d224f4a7135](https://github.com/user-attachments/assets/7dd6d5e6-0cc1-45f1-adfc-f60268578349)
+🥇 [**Sheldon Cooper**](https://baike.baidu.com/item/谢尔顿·库珀/9982394) × 5
+<img height="250px" src="https://github.com/user-attachments/assets/7dd6d5e6-0cc1-45f1-adfc-f60268578349"/>
 - 🥈 [**霍华德·沃洛维茨**](https://baike.baidu.com/item/霍华德·沃洛维茨/18428561?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=f5a54d499de112bdb9ec5477&lemmaIdFrom=9982394) × 1
 
 ## 🔥 高能入口（最新精选）
