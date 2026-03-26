@@ -5,15 +5,22 @@ No No No!
 
 不要怕，这里不是又又又一个无趣的技术社区，我们只想把最简单、纯粹、有趣的 AI 还给大家，谁说只有名校高材生才能深入学 AI？
 
-对了，网站近期将完全开源，大家随意期待下就行。
+对了，网站近期将完全开源，大家随意期待下就行，它无非就是一片能让你随意学会 AI、又特别有趣的一片大陆。
+![be94838ba61ea8d3192e7f71940a304e251f5821 jpg](https://github.com/user-attachments/assets/b492b159-dc97-4102-a082-60b536b2a8f9)
 
-## 🎭 辣评人活跃榜
+
+## 🎭 大陆活跃榜
 🥇 [**Sheldon Cooper**](https://baike.baidu.com/item/谢尔顿·库珀/9982394) × 5
-<img height="250px" src="https://github.com/user-attachments/assets/7dd6d5e6-0cc1-45f1-adfc-f60268578349"/>
-- 🥈 [**霍华德·沃洛维茨**](https://baike.baidu.com/item/霍华德·沃洛维茨/18428561?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=f5a54d499de112bdb9ec5477&lemmaIdFrom=9982394) × 1
 
-## 🔥 高能入口（最新精选）
-> 先从最有火花的内容开局，再深入完整目录。
+<img height="300px" src="https://github.com/user-attachments/assets/7dd6d5e6-0cc1-45f1-adfc-f60268578349"/>
+
+🥈 [**霍华德·沃洛维茨**](https://baike.baidu.com/item/霍华德·沃洛维茨/18428561?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=f5a54d499de112bdb9ec5477&lemmaIdFrom=9982394) × 1
+
+<img height="250px" src="https://github.com/user-attachments/assets/52052b20-dde9-4e76-8ec6-92c2480690ff" />
+
+
+## 🔥 高能入口
+> 先从最有火花的地方开局
 1. <a href="https://beatai.org/ai-insights/viewpoint/agent-skills-teams-architecture-evolution">Agent/Skills/Teams 架构演进过程及技术选型之道</a>
    <br/><sub>2026 年 3 月 ｜ 2026-03-26 ｜ 辣评 By 霍华德·沃洛维茨 ｜ #Agent #Multi-Agent #Agent Skills</sub>
 2. <a href="https://beatai.org/ai-insights/viewpoint/claude-self-audit-prompt">你的 Claude 配置会随着时间变质：用这条自检提示词，60 秒排毒</a>
@@ -32,7 +39,6 @@ No No No!
    <br/><sub>2026 年 3 月 ｜ 2026-03-20 ｜ 辣评 By Sheldon Cooper ｜ #ClaudeCode #Worktree #PlanMode</sub>
 
 ## 🗂️ 全量航线
-> 按月份展开，完整覆盖 `_meta.json` 的所有文章，不跳项、不漏项。
 
 <details>
 <summary><b>📅 2026 年 3 月</b> · 14 篇</summary>
@@ -88,5 +94,4 @@ No No No!
 - 主站阅读：<a href="https://beatai.org/ai-insights">beatai.org/ai-insights</a>
 - 仓库协作：<a href="https://github.com/beatai-org/BeatAI">github.com/beatai-org/BeatAI</a>
 
-<p align="center"><sub>Generated from <code>public/docs/ai-insights/_meta.json</code> · Full replacement renderer</sub></p>
 
